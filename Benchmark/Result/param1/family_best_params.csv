@@ -1,0 +1,6 @@
+study,type,model,best_params
+FR-CRC_AT-CRC_ITA-CRC_JPN-CRC_US-CRC-2_CN_WF-CRC_CN_SH-CRC_CN-CRC_DE-CRC_IND-CRC_US-CRC,family,RandomForest,"{'max_depth': 9, 'min_samples_leaf': 2, 'min_samples_split': 7, 'n_estimators': 300}"
+FR-CRC_AT-CRC_ITA-CRC_JPN-CRC_US-CRC-2_CN_WF-CRC_CN_SH-CRC_CN-CRC_DE-CRC_IND-CRC_US-CRC,family,SVM,"{'C': 10, 'kernel': 'rbf'}"
+FR-CRC_AT-CRC_ITA-CRC_JPN-CRC_US-CRC-2_CN_WF-CRC_CN_SH-CRC_CN-CRC_DE-CRC_IND-CRC_US-CRC,family,XGBoost,"{'learning_rate': 0.02, 'max_depth': 9, 'n_estimators': 300, 'subsample': 0.5}"
+FR-CRC_AT-CRC_ITA-CRC_JPN-CRC_US-CRC-2_CN_WF-CRC_CN_SH-CRC_CN-CRC_DE-CRC_IND-CRC_US-CRC,family,KNN,"{'metric': 'manhattan', 'n_neighbors': 10, 'weights': 'distance'}"
+FR-CRC_AT-CRC_ITA-CRC_JPN-CRC_US-CRC-2_CN_WF-CRC_CN_SH-CRC_CN-CRC_DE-CRC_IND-CRC_US-CRC,family,MLP,"{'batch_size': 32, 'hidden_dims': (32,), 'lambda_l1': 0.001, 'lambda_l2': 0.001, 'num_epochs': 20}"

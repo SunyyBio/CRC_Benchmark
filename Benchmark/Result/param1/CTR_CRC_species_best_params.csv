@@ -1,0 +1,3 @@
+study,model,best_params
+FR-CRC_AT-CRC_ITA-CRC_JPN-CRC_US-CRC-2_CN_WF-CRC_CN_SH-CRC_CN-CRC_DE-CRC_IND-CRC_US-CRC,RandomForest,"{'max_depth': 9, 'n_estimators': 950}"
+FR-CRC_AT-CRC_ITA-CRC_JPN-CRC_US-CRC-2_CN_WF-CRC_CN_SH-CRC_CN-CRC_DE-CRC_IND-CRC_US-CRC,XGBoost,"{'max_depth': 6, 'n_estimators': 220}"
