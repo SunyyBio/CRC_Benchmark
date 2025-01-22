@@ -1,0 +1,3 @@
+Comparison,KL_Divergence,JS_Divergence,Ratio
+target_vs_TL,5.984579412330709,0.346174931398767,S0.4
+target_vs_Raw,9.265041794682151,0.47682424327566164,S0.4

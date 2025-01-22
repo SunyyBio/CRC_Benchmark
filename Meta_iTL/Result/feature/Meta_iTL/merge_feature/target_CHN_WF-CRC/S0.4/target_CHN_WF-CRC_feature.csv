@@ -1,0 +1,12 @@
+target_study,CHN_WF-CRC_lefse,CHN_WF-CRC_MaAsLin,CHN_WF-CRC_Ancom
+CHN_WF-CRC,Phocaeicola_massiliensis,Blautia_massiliensis,Blautia_massiliensis
+,GGB3256_SGB4303,Phocaeicola_massiliensis,
+,Bacteroides_finegoldii,Bacteroides_finegoldii,
+,Blautia_wexlerae,GGB3256_SGB4303,
+,Anaerobutyricum_hallii,Blautia_wexlerae,
+,Citrobacter_freundii,Anaerobutyricum_hallii,
+,Clostridium_symbiosum,Phocaeicola_plebeius,
+,Blautia_massiliensis,Enterococcus_faecium,
+,Butyricimonas_paravirosa,Clostridium_symbiosum,
+,Lacrimispora_saccharolytica,Citrobacter_freundii,
+,GGB79973_SGB14341,,

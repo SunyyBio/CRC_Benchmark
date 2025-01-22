@@ -1,0 +1,6 @@
+"Comparison" "Taxa" "Method" "Group" "LDA" "P.unadj" "P.adj" "Significance"
+"NA|NA|NA|NA|NA|NA|Phocaeicola_vulgatus|Phocaeicola_vulgatus" "ADA - CTR" "NA|NA|NA|NA|NA|NA|Phocaeicola_vulgatus|Phocaeicola_vulgatus" "LEfSe" "ADA" 4.72219886369495 0.0274863361115104 0.0274863361115104 "*"
+"NA|NA|NA|NA|NA|NA|Eubacterium_ventriosum|Eubacterium_ventriosum" "ADA - CTR" "NA|NA|NA|NA|NA|NA|Eubacterium_ventriosum|Eubacterium_ventriosum" "LEfSe" "ADA" 3.44812608365493 0.0490901163226074 0.0490901163226074 "*"
+"NA|NA|NA|NA|NA|NA|Bacteroides_ovatus|Bacteroides_ovatus" "ADA - CTR" "NA|NA|NA|NA|NA|NA|Bacteroides_ovatus|Bacteroides_ovatus" "LEfSe" "CTR" 3.4003971742477 0.0249466432229086 0.0249466432229086 "*"
+"NA|NA|NA|NA|NA|NA|Coprococcus_comes|Coprococcus_comes" "ADA - CTR" "NA|NA|NA|NA|NA|NA|Coprococcus_comes|Coprococcus_comes" "LEfSe" "ADA" 3.19858447281571 0.0290490221619406 0.0290490221619406 "*"
+"NA|NA|NA|NA|NA|NA|GGB2653_SGB3574|GGB2653_SGB3574" "ADA - CTR" "NA|NA|NA|NA|NA|NA|GGB2653_SGB3574|GGB2653_SGB3574" "LEfSe" "ADA" 3.18775710950689 0.0462514267918325 0.0462514267918325 "*"

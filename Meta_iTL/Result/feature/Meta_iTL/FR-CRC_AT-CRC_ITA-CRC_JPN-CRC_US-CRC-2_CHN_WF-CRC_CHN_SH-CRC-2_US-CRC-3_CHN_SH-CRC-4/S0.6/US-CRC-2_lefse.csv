@@ -1,0 +1,5 @@
+"Comparison" "Taxa" "Method" "Group" "LDA" "P.unadj" "P.adj" "Significance"
+"NA|NA|NA|NA|NA|NA|Faecalibacterium_SGB15315|Faecalibacterium_SGB15315" "ADA - CTR" "NA|NA|NA|NA|NA|NA|Faecalibacterium_SGB15315|Faecalibacterium_SGB15315" "LEfSe" "CTR" 3.91097993798826 0.0284597369163106 0.0284597369163106 "*"
+"NA|NA|NA|NA|NA|NA|Blautia_sp_MSK_20_85|Blautia_sp_MSK_20_85" "ADA - CTR" "NA|NA|NA|NA|NA|NA|Blautia_sp_MSK_20_85|Blautia_sp_MSK_20_85" "LEfSe" "CTR" 3.44794540441333 0.0284597369163106 0.0284597369163106 "*"
+"NA|NA|NA|NA|NA|NA|Dysosmobacter_welbionis|Dysosmobacter_welbionis" "ADA - CTR" "NA|NA|NA|NA|NA|NA|Dysosmobacter_welbionis|Dysosmobacter_welbionis" "LEfSe" "CTR" 2.89354972898226 0.0284597369163106 0.0284597369163106 "*"
+"NA|NA|NA|NA|NA|NA|Eisenbergiella_massiliensis|Eisenbergiella_massiliensis" "ADA - CTR" "NA|NA|NA|NA|NA|NA|Eisenbergiella_massiliensis|Eisenbergiella_massiliensis" "LEfSe" "CTR" 1.89298952076466 0.0284597369163106 0.0284597369163106 "*"

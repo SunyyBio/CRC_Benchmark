@@ -1,0 +1,31 @@
+2025-01-17 22:48:34 INFO::Writing function arguments to log file
+2025-01-17 22:48:34 DEBUG::Function arguments
+2025-01-17 22:48:34 DEBUG::Output folder: G:/deeplearning/CRC/benchmarker/code/Meta_iTL/Result/feature//TL/Meta_iTL/FR-CRC_AT-CRC_ITA-CRC_JPN-CRC_US-CRC-2_US-CRC-3_CHN_SH-CRC-2_CHN_SH-CRC-3_CHN_WF-CRC/S0.3/AT-CRC_MaAslin
+2025-01-17 22:48:34 DEBUG::Min Abundance: 0.000000
+2025-01-17 22:48:34 DEBUG::Min Prevalence: 0.000000
+2025-01-17 22:48:34 DEBUG::Normalization: NONE
+2025-01-17 22:48:34 DEBUG::Transform: LOG
+2025-01-17 22:48:34 DEBUG::Analysis method: LM
+2025-01-17 22:48:34 DEBUG::Max significance: 0.250000
+2025-01-17 22:48:34 DEBUG::Random effects:
+2025-01-17 22:48:34 DEBUG::Fixed effects: Group
+2025-01-17 22:48:34 DEBUG::Correction method: BH
+2025-01-17 22:48:34 DEBUG::Standardize: TRUE
+2025-01-17 22:48:34 DEBUG::Cores: 1
+2025-01-17 22:48:34 INFO::Verifying options selected are valid
+2025-01-17 22:48:34 INFO::Determining format of input files
+2025-01-17 22:48:34 INFO::Input format is data samples as rows and metadata samples as rows
+2025-01-17 22:48:34 DEBUG::A total of 1 samples were found in both the data and metadata
+2025-01-17 22:48:34 DEBUG::Reordering data/metadata to use same sample ordering
+2025-01-17 22:48:34 INFO::Formula for fixed effects: expr ~  Group
+2025-01-17 22:48:34 INFO::Filter data based on min abundance and min prevalence
+2025-01-17 22:48:34 INFO::Total samples in data: 1
+2025-01-17 22:48:34 INFO::Min samples required with min abundance for a feature not to be filtered: 0.000000
+2025-01-17 22:48:34 INFO::Total filtered features: 186
+2025-01-17 22:48:34 INFO::Filtered feature names from abundance and prevalence filtering:
+2025-01-17 22:48:34 INFO::Total filtered features with variance filtering: 168
+2025-01-17 22:48:34 INFO::Filtered feature names from variance filtering:
+2025-01-17 22:48:34 INFO::Running selected normalization method: NONE
+2025-01-17 22:48:34 INFO::Applying z-score to standardize continuous metadata
+2025-01-17 22:48:34 INFO::Running selected transform method: LOG
+2025-01-17 22:48:34 INFO::Running selected analysis method: LM

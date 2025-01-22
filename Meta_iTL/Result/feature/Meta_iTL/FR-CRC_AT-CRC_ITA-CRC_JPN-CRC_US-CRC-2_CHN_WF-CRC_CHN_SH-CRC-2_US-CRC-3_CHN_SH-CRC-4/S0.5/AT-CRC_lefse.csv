@@ -1,0 +1,4 @@
+"Comparison" "Taxa" "Method" "Group" "LDA" "P.unadj" "P.adj" "Significance"
+"NA|NA|NA|NA|NA|NA|Megamonas_funiformis|Megamonas_funiformis" "ADA - CTR" "NA|NA|NA|NA|NA|NA|Megamonas_funiformis|Megamonas_funiformis" "LEfSe" "CTR" -Inf 0.0248538213004731 0.0248538213004731 "*"
+"NA|NA|NA|NA|NA|NA|Enterocloster_aldenensis|Enterocloster_aldenensis" "ADA - CTR" "NA|NA|NA|NA|NA|NA|Enterocloster_aldenensis|Enterocloster_aldenensis" "LEfSe" "CTR" -Inf 0.0434113739646101 0.0434113739646101 "*"
+"NA|NA|NA|NA|NA|NA|Bacteroides_faecis|Bacteroides_faecis" "ADA - CTR" "NA|NA|NA|NA|NA|NA|Bacteroides_faecis|Bacteroides_faecis" "LEfSe" "CTR" -Inf 0.00815097159350269 0.00815097159350269 "**"
